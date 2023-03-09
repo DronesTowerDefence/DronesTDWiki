@@ -1,5 +1,10 @@
 .floatRight{float:left; border-style: solid; border-color: black;}
-
+.feuerturm {
+  background: url('img/Towers/Feuerturm.png');
+ width: 50%;
+ height: 50%;
+  display:inline-block;
+}
 #navigation {
     list-style-type: none;
     margin: 0;
@@ -1793,5 +1798,7 @@ body > footer {
     text-decoration: underline;
   }
   
+
+    
 }
 
