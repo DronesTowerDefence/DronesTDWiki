@@ -1,9 +1,10 @@
 .floatRight{float:left; border-style: solid; border-color: black;}
-.feuerturm {
-  background: url('img/Towers/Feuerturm.png');
- width: 50%;
- height: 50%;
-  display:inline-block;
+.diagramm{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
 }
 #navigation {
     list-style-type: none;
